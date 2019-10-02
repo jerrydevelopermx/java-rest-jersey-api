@@ -1,0 +1,5 @@
+com\jerry\rest\FtoCService.class
+com\jerry\security\CorsFilter.class
+com\jerry\util\PersistenceService.class
+com\jerry\entity\User.class
+com\jerry\rest\UsersService.class
